@@ -33,7 +33,7 @@ Currently exploring **Web Development, Flask, and Data Engineering**.
 
 ## 📌 Featured Projects
 🔹 [FridgeBuddy]((https://github.com/Gokulnath2765/FridgeBuddy)) – Smart fridge inventory tracker with expiry alerts  
-🔹 [Royal Enfield Dashboard](https://github.com/Gokulnath2765/Techmath/DropDown) – Sleek bike dashboard UI ⚡
+🔹 [Royal Enfield Dashboard]((https://github.com/Gokulnath2765/Techmath/tree/main/Drop%20Down)) – Sleek bike dashboard UI ⚡
 
 ---
 
