@@ -16,7 +16,7 @@ Currently exploring **Web Development, Flask, and Data Engineering**.
 ---
 
 ## 📌 Featured Projects
-🔹 [FridgeBuddy](https://github.com/yourusername/fridgebuddy) – Smart fridge inventory tracker with expiry alerts  
+🔹 [FridgeBuddy]((https://github.com/Gokulnath2765/FridgeBuddy)) – Smart fridge inventory tracker with expiry alerts  
 
 ---
 
